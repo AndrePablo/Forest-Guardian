@@ -1,5 +1,5 @@
-Forest Guardian is a platformer shooter game, where you venture through the woods encountering monsters
-until you reach the person behind it all.
+Forest Guardian is a platformer shooter game, where you venture through the a mysterious forest encountering monsters
+until you reach the person behind it all. Developed in C# using UNITY game engine.
 
 Controls:
 A/D - Move Left/Right
