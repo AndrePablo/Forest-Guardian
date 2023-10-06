@@ -4,7 +4,7 @@ until you reach the person behind it all. Developed in C# using UNITY game engin
 Try out the game HERE : https://play.unity.com/mg/other/fg-deploy
 
 KEY PROJECT TAKEAWAYS: Implementing optimized algorithms and leveraging data structures, learning Unity game development engine, using OOP C# best practices,
-leveraging C# for game development, building a relatively larger scale platform game and deploying it.
+leveraging C# for game development, building a larger scale platform game and deploying it.
 
 
 Controls:
